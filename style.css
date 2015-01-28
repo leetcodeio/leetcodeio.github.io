@@ -1,0 +1,10 @@
+.cse input.gsc-input:focus, input.gsc-input:focus {
+    background-image:none !important;
+}
+
+.cse input.gsc-input, input.gsc-input {
+    background-image:url(“YOUR-IMAGE.gif”) !important;
+    background-repeat:no-repeat;
+    background-color:#fff;
+}
+
